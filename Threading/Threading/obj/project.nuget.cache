@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "M7TamtnyyepqhoII+Q6/0W7WbM4OPbjqV7SwRrvm8uTfEbCsRyBlV8ZfW6ANyGjjnztA1hM44nUKYFHctDgU3Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jmarx\\Documents\\3rd Year\\All Projects C#\\Threading\\Threading\\Threading.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jmarx\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.14\\microsoft.netcore.app.host.win-x64.5.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}

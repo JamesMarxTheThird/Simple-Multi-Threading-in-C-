@@ -1,0 +1,32 @@
+C:\Users\jmarx\source\repos\Threading\Threading\bin\Debug\net5.0\Threading.exe
+C:\Users\jmarx\source\repos\Threading\Threading\bin\Debug\net5.0\Threading.deps.json
+C:\Users\jmarx\source\repos\Threading\Threading\bin\Debug\net5.0\Threading.runtimeconfig.json
+C:\Users\jmarx\source\repos\Threading\Threading\bin\Debug\net5.0\Threading.runtimeconfig.dev.json
+C:\Users\jmarx\source\repos\Threading\Threading\bin\Debug\net5.0\Threading.dll
+C:\Users\jmarx\source\repos\Threading\Threading\bin\Debug\net5.0\ref\Threading.dll
+C:\Users\jmarx\source\repos\Threading\Threading\bin\Debug\net5.0\Threading.pdb
+C:\Users\jmarx\source\repos\Threading\Threading\obj\Debug\net5.0\Threading.csproj.AssemblyReference.cache
+C:\Users\jmarx\source\repos\Threading\Threading\obj\Debug\net5.0\Threading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jmarx\source\repos\Threading\Threading\obj\Debug\net5.0\Threading.AssemblyInfoInputs.cache
+C:\Users\jmarx\source\repos\Threading\Threading\obj\Debug\net5.0\Threading.AssemblyInfo.cs
+C:\Users\jmarx\source\repos\Threading\Threading\obj\Debug\net5.0\Threading.csproj.CoreCompileInputs.cache
+C:\Users\jmarx\source\repos\Threading\Threading\obj\Debug\net5.0\Threading.dll
+C:\Users\jmarx\source\repos\Threading\Threading\obj\Debug\net5.0\ref\Threading.dll
+C:\Users\jmarx\source\repos\Threading\Threading\obj\Debug\net5.0\Threading.pdb
+C:\Users\jmarx\source\repos\Threading\Threading\obj\Debug\net5.0\Threading.genruntimeconfig.cache
+C:\Users\jmarx\Documents\3rd Year\All Projects C#\Threading\Threading\bin\Debug\net5.0\Threading.exe
+C:\Users\jmarx\Documents\3rd Year\All Projects C#\Threading\Threading\bin\Debug\net5.0\Threading.deps.json
+C:\Users\jmarx\Documents\3rd Year\All Projects C#\Threading\Threading\bin\Debug\net5.0\Threading.runtimeconfig.json
+C:\Users\jmarx\Documents\3rd Year\All Projects C#\Threading\Threading\bin\Debug\net5.0\Threading.runtimeconfig.dev.json
+C:\Users\jmarx\Documents\3rd Year\All Projects C#\Threading\Threading\bin\Debug\net5.0\Threading.dll
+C:\Users\jmarx\Documents\3rd Year\All Projects C#\Threading\Threading\bin\Debug\net5.0\ref\Threading.dll
+C:\Users\jmarx\Documents\3rd Year\All Projects C#\Threading\Threading\bin\Debug\net5.0\Threading.pdb
+C:\Users\jmarx\Documents\3rd Year\All Projects C#\Threading\Threading\obj\Debug\net5.0\Threading.csproj.AssemblyReference.cache
+C:\Users\jmarx\Documents\3rd Year\All Projects C#\Threading\Threading\obj\Debug\net5.0\Threading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jmarx\Documents\3rd Year\All Projects C#\Threading\Threading\obj\Debug\net5.0\Threading.AssemblyInfoInputs.cache
+C:\Users\jmarx\Documents\3rd Year\All Projects C#\Threading\Threading\obj\Debug\net5.0\Threading.AssemblyInfo.cs
+C:\Users\jmarx\Documents\3rd Year\All Projects C#\Threading\Threading\obj\Debug\net5.0\Threading.csproj.CoreCompileInputs.cache
+C:\Users\jmarx\Documents\3rd Year\All Projects C#\Threading\Threading\obj\Debug\net5.0\Threading.dll
+C:\Users\jmarx\Documents\3rd Year\All Projects C#\Threading\Threading\obj\Debug\net5.0\ref\Threading.dll
+C:\Users\jmarx\Documents\3rd Year\All Projects C#\Threading\Threading\obj\Debug\net5.0\Threading.pdb
+C:\Users\jmarx\Documents\3rd Year\All Projects C#\Threading\Threading\obj\Debug\net5.0\Threading.genruntimeconfig.cache
